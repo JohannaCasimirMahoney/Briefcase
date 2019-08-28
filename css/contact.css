@@ -81,7 +81,7 @@ body {
 .img-wrapper img
 {
 	height: 400px;
-	width: 300px;
+	width: 500px;
 	filter: grayscale(100%);
 	transition: 2s;
 }
