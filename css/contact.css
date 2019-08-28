@@ -179,3 +179,36 @@ body {
 	background: rgba(255,255,255,0);
 }
 
+
+/* NAVABAR */
+
+#mySidenav a {
+	position: absolute;
+	left: 80px;
+	transition: 0.3s;
+	padding: 15px;
+	width: 100px;
+	text-decoration: none;
+	font-size: 20px;
+	color: #E65650;
+	border-radius: 0 5px 5px 0;
+  }
+  
+  #mySidenav a:hover {
+	left: 0;
+  }
+  
+  #about {
+	top: 325px;
+	background-color: #212121;
+  }
+  
+  #portfolio {
+	top: 390px;
+	background-color: #212121;
+  }
+  
+  #contact {
+	top: 455px;
+	background-color: #212121;
+  }
